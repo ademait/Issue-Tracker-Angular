@@ -1,4 +1,11 @@
-# REST API IssueTracker G13D 
+# IssueTracker 
+Web made with Angular, based on Bitbucket's Issue Tracker.
+
+## Screenshots
+These are some screenshots of the web.
+
+### Home Page
+![](screenshots/
 
 - Danci, Marian Dumitru
 - Ait Fonollà, Adem
