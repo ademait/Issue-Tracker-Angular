@@ -1,5 +1,5 @@
 # IssueTracker 
-Web made with Angular, based on Bitbucket's Issue Tracker.
+Web made with [Angular](https://angular.io/), based on Bitbucket's Issue Tracker.
 
 ## Screenshots
 These are some screenshots of the web.
