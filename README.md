@@ -1,3 +1,5 @@
+:warning: :warning: THIS REPOSITORY IS NO LONGER MAINTAINED. THERE ARE SOME SECURITY VULNERABILITIES. USE AT YOUR OWN RISK. :warning: :warning:
+
 # IssueTracker 
 Web made with [Angular](https://angular.io/), based on Bitbucket's Issue Tracker.
 
